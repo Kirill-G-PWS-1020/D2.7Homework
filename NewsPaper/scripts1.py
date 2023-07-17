@@ -1,3 +1,4 @@
+#python -m venv venv
 #venv\Scripts\activate.bat
 #cd NewsPaper 
 #python manage.py makemigrations
